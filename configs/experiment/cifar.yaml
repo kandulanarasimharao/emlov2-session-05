@@ -17,7 +17,7 @@ tags: ["cifar10"]
 seed: 12345
 
 datamodule:
-  batch_size: 16
+  batch_size: 128
 
 logger:
   wandb:
